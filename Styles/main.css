@@ -1,3 +1,73 @@
-h1{
-    color: red
+* {font-family: 'Montserrat', sans-serif;
+ font-family: 'Montserrat', sans-serif;
+ font color: ##3d97f1;
 }
+h1 {font-size: 70px;
+    color: #79b0e7;
+    padding-left: 250px;
+    padding-right: 250px
+}
+h3{font-size: 70px;
+    color: #79b0e7;
+    padding-left: 250px;
+    padding-right: 250px
+}
+h5{font-size: 70px;
+    color: #79b0e7;
+    padding-left: 250px;
+    padding-right: 250px
+ }
+img{
+    max-width: 100%;
+  height: auto;
+}
+.intro {font-size: 20px;
+    padding-left: 250px;
+    padding-right: 200px;
+    color: #79b0e7;
+}
+
+}
+.titsprint
+{color: #79b0e7;
+    padding-left: 250px;
+    }
+.title1 {font-size: 60px;
+    color: #79b0e7;
+    padding-left: 250px;
+    padding-right: 250px
+
+}
+
+.text1pad{font-size: 15px;
+    padding-left: 550px;
+    padding-right: 480px;
+    color: #79b0e7
+}
+.paddingpic{
+    margin-left: 550px
+}
+#photo2 {
+    margin-left: 550px
+}
+.learnplantitle{
+    font-weight: bold;
+    padding-right: 550px;
+    
+
+}
+.intro2 {font-size: 15px;
+    padding-left: 250px;
+    padding-right: 520px;
+    color: #79b0e7;
+    }
+
+
+
+
+
+
+
+
+
+
